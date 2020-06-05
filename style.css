@@ -1,0 +1,92 @@
+.nav-link {
+    color: aliceblue;
+    font-weight: bold !important;
+}
+.navbar {
+    background-color: white !important;
+}
+.fa-shopping-cart,.fa-user {
+    font-size: 27px !important;
+}
+.logo {
+    height: 50px;
+    width: 200px;
+}
+.s1 {
+    height: 500px;
+    width: 100%;
+}
+.fa-truck,.fa-phone,.fa-thumbs-up {
+    font-size: 40px !important;
+    margin-right: 10px;
+
+}
+.freeship,.Ser,.quality {
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.ServiceCard {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.newarrival {
+    margin-top: 30px;
+}
+.card {
+    width: 250px;
+    height: auto !important;
+    margin-bottom: 5px;
+}
+.card-text{
+    font-weight: bold;
+}
+.btn-primary {
+    width: 100%;
+}
+.heading {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+}
+.heading > h1 {
+    text-shadow: 2px 2px 4px gray;
+}
+/* .footer {
+    width: 100%;
+    background-color: grey;
+    height: 50px;
+}
+.footer > div {
+    padding-top: 15px;
+} */
+
+.footer-topper{
+    background-color:lightskyblue;
+  }
+  footer{
+    background-color: #111;
+  }
+  .fa{
+    padding: 10px 10px 10px 10px;
+  } 
+.footer-para{
+    color: whitesmoke;
+  }
+
+  .footer-para, .footer-links{
+    text-align: center;
+  }
+  .cop{
+    text-align: center;
+  }
+  
